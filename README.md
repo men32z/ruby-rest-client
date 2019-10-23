@@ -11,5 +11,5 @@ In this project you will use rest-client gem in order to get search engine resul
 ## Built With:
 Ruby
 
-##Author
+## Author
 Luis Preza https://github.com/men32z
